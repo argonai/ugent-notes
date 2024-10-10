@@ -12,4 +12,14 @@ $a^{1/2} = \sqrt{a}$
 $a^{p/q} = \sqrt[q]{a^p}$
 ### Voorbeelden
 Zie notes op tablet
-
+## Driehoek van pascal
+### Binomium van newton
+$$(a + b)^n = \sum_{i=0}^{n} C\binom{n}{i} a^{n-i} b^i$$
+## Vierkantsvergelijkingen
+### Discriminant
+$ \Delta = b^2- 4ac $
+$ \Delta < 0$ Geen reele nulpunten
+$ \Delta >= 0$ er zijn twee nulpunten: 
+$\frac{-b+\sqrt{\Delta}}{2a}$
+en 
+$\frac{-b-\sqrt{\Delta}}{2a}$
